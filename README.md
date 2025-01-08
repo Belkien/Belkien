@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @Belkien.
-- 👀 4+ yr Software Engineer & Digital Forensics experience.Interested in Cybersecurity,Digital Forensics and Artificial Intelligence.
-- 🌱 Graduated from United States International University(USIU) in 2022 with a Bachelors of Science in Information Systems, Major:Cybersecurity,Forensic Science. Graduated in 2024 at ALX,SWE with Software Engineer Certification.
-- 💞️ I’m looking to collaborate on ANY Cool Project & Full stack Web development (MongoDB,Javascript,HTML5(css/Typescript,Python,React)I LOVE learning from others.
+  
+- 👀 4+ yr Software Engineer & Digital Forensics hands-on experience.Interested in Cybersecurity,Digital Forensics and Artificial Intelligence.
+  
+- 🌱 BSc. Information Systems Technology - United States International University(USIU), Major:Cybersecurity,Forensic Science. Graduated in 2022.
+     Software Engineer Certification - ALX,SWE - Graduated in 2024.
+  
+- 💞️ Looking to collaborate on any Cool Project & Full stack Web development (MongoDB,Javascript,HTML5(css/Typescript,Python,React)I LOVE learning from others too!
+  
 - 📫 -Reach me through my github profile & Linkedin(Belkien Masinde).
+  
 - ✨IM ALSO AN ENTREPRENEUR, I run an online shop, BilliardsbyBeltrev that sells entertainment equipment. Pool tables, Board games etc.
 
 <!---
